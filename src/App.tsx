@@ -129,7 +129,7 @@ const Hero = () => {
           Elegance in every braid
         </span>
         <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl leading-[1.1] tracking-tight text-white mb-6 drop-shadow-lg">
-          Looking Good is <br/>Good Business
+          Looking Good's<br/>Good Business
         </h1>
         <p className="text-lg md:text-xl text-white/90 mb-10 max-w-xl mx-auto leading-relaxed font-light drop-shadow">
           Experience the ultimate luxury in protective styling. We craft flawless, pain-free braids that celebrate your natural beauty.
