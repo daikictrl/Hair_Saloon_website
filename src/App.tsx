@@ -670,7 +670,7 @@ const Footer = () => {
             <ul className="space-y-4 text-sm text-brand-muted">
               <li className="flex items-center gap-3">
                 <MapPin className="w-4 h-4 text-brand-gold" />
-                123 Beauty Lane, NY 10001
+                Hasselt, Antwerp, Belgium
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-4 h-4 text-brand-gold" />
