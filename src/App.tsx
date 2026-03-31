@@ -131,9 +131,6 @@ const Hero = () => {
         <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl leading-[1.1] tracking-tight text-white mb-6 drop-shadow-lg">
         Looking Good is<br/>Good Business
         </h1>
-        <p className="text-lg md:text-xl text-white/90 mb-10 max-w-xl mx-auto leading-relaxed font-light drop-shadow">
-          Experience the ultimate luxury in protective styling.
-        </p>
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <a href="#booking" className="w-full sm:w-auto px-8 py-4 bg-brand-gold text-white rounded-full text-sm font-medium uppercase tracking-widest hover:bg-brand-gold-dark transition-all shadow-xl shadow-brand-gold/20">
             Book Appointment
